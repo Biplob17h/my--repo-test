@@ -1,0 +1,9 @@
+h1{
+    color: red;
+}
+p{
+  border: 10px solid green; 
+  border-radius: 15px;
+  margin-left: 15px;
+  text-align: justify;
+}
