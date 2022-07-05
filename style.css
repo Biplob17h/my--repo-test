@@ -6,4 +6,7 @@ p{
   border-radius: 15px;
   margin-left: 15px;
   text-align: justify;
+  #cat{
+   align-self: position: center;;
+  }
 }
